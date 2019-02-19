@@ -69,8 +69,8 @@ PLATFORMS
 
 DEPENDENCIES
   coderay (= 1.1.1)
-  guard
-  guard-rspec
+  guard (= 2.15.0)
+  guard-rspec (= 4.7.3)
   rack-test (= 0.7.0)
   rspec (= 3.6.0)
   sinatra (= 2.0.0)
